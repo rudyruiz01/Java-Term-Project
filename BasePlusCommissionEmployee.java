@@ -1,4 +1,3 @@
-// Fig. 10.8: BasePlusCommissionEmployee.java
 // BasePlusCommissionEmployee class extends CommissionEmployee.
 
 public class BasePlusCommissionEmployee extends Employee {
