@@ -1,4 +1,3 @@
-// Fig. 10.13: Employee.java
 // Employee abstract superclass that implements Payable.
 
 public abstract class Employee {
